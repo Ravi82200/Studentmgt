@@ -7,7 +7,5 @@ Features
    Attendance Management
 
 Mark daily attendance (Present/Absent/Late/etc.)
-
 Update attendance entries
-
 View attendance history
